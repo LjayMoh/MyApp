@@ -1,0 +1,60 @@
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.welcome-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+}
+
+.welcome-container h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(239, 255, 254);
+    font-size: 70px;
+    margin-top: 90px;
+    margin: 0 40px;
+}
+
+.design-btns {
+    margin-top: 40px;
+}
+
+.design-btns .btn {
+    margin: 25px;
+    font-size: 15px;
+    border-radius: .2rem;
+}
+
+.design-btns .btn:hover {
+    background-color: transparent;
+    border: 1px solid white;
+    color: rgb(234, 255, 255);
+}
+
+.fa-image {
+    margin-right: 0.3rem;
+    font-size: 1.2rem;
+}
+
+.fa-user {
+    margin-right: 0.3rem;
+    font-size: 1.2rem;
+}
+
+@media screen and (max-width: 980px) {
+    .welcome-container h1 {
+        font-size: 40px;
+        margin-top: 60px;
+        margin: 0 30px;
+    }
+}

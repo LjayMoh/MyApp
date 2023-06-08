@@ -1,0 +1,178 @@
+.navBar {  
+    background-color: rgb(18, 17, 17);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.navBar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    max-width: 1500px;
+}
+
+.navBar-logo{
+    color: #ffffff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+}
+
+.navBar-logo span {
+    color: rgb(8, 239, 239);
+}
+
+.fa-globe {
+    margin-left: 0.3rem;
+    font-size: 1.5rem;
+}
+
+.fa-home {
+    margin-right: 0.3rem;
+    font-size: 1rem;
+}
+
+.fa-pager {
+    margin-right: 0.3rem;
+    font-size: 1rem;
+}
+
+.fa-palette {
+    margin-right: 0.3rem;
+    font-size: 1rem;
+}
+
+.fa-image {
+    margin-right: 0.3rem;
+    font-size: 1rem;
+}
+
+.navMenu {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 60vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.menuItems {
+    height: 80px;
+}
+
+.menuLinks {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    height: 100%;
+}
+
+.menuLinks:hover {
+    border-bottom: 4px solid rgb(8, 239, 239);;
+    transition: all 0.2s ease-out;
+}
+
+.fa-bars {
+    color: #fff;
+}
+
+.menuLinks-hamburger{
+    display: none;
+}
+
+.menu-checkbox {
+    display: none;
+}
+
+@media screen and (max-width: 980px) {
+    .navMenu {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 90vh;
+        position: absolute;
+        top: 80px;
+        left: -100%;
+        opacity: 1;
+        transition: all 0.5s ease;
+    }
+
+    .navMenu.active {
+        background: #242222;
+        left: 0;
+        opacity: 1;
+        transition: all 0.5s ease;
+        z-index: 1;
+    }
+
+    .menuLinks {
+        text-align: center;
+        padding: 10px;
+        width: 100%;
+        display: table;
+    }
+    
+    .menuLinks:hover {
+        background-color: #fff;
+        color: #242424;
+        border-radius: 0;
+    }
+
+    .navBar-logo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform: translate(25%, 50%);
+      }
+    
+    .menu-checkbox {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.8rem;
+        cursor: pointer;
+    }
+
+    .fa-times {
+        color: #fff;
+        font-size: 2rem;
+    }
+
+    .menuLinks-hamburger {
+        display: block;
+        text-align: center;
+        margin: auto;
+        border-radius: 2px;
+        width: 60%;
+        text-decoration: none;
+        font-size: 1.5rem;
+        background-color: transparent;
+        color: #fff;
+        padding: 5px 5px;
+        border: 1px solid #fff;
+        transition: all 0.3s ease-out;
+    }
+
+    .menuLinks-hamburger:hover {
+        background: #fff;
+        color: #242424;
+        transition: 250ms;
+    }
+}
