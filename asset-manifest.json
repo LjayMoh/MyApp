@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MyApp/static/css/main.9112d567.css",
-    "main.js": "/MyApp/static/js/main.61e189ae.js",
+    "main.js": "/MyApp/static/js/main.013499d6.js",
     "static/media/decry-yae-2ZMj_aeGuNI-unsplash.jpg": "/MyApp/static/media/decry-yae-2ZMj_aeGuNI-unsplash.09a9d83cf23e8343f5fe.jpg",
     "index.html": "/MyApp/index.html",
     "main.9112d567.css.map": "/MyApp/static/css/main.9112d567.css.map",
-    "main.61e189ae.js.map": "/MyApp/static/js/main.61e189ae.js.map"
+    "main.013499d6.js.map": "/MyApp/static/js/main.013499d6.js.map"
   },
   "entrypoints": [
     "static/css/main.9112d567.css",
-    "static/js/main.61e189ae.js"
+    "static/js/main.013499d6.js"
   ]
 }
