@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d2731bf.css",
+    "main.js": "/static/js/main.61e189ae.js",
+    "static/media/decry-yae-2ZMj_aeGuNI-unsplash.jpg": "/static/media/decry-yae-2ZMj_aeGuNI-unsplash.09a9d83cf23e8343f5fe.jpg",
+    "index.html": "/index.html",
+    "main.8d2731bf.css.map": "/static/css/main.8d2731bf.css.map",
+    "main.61e189ae.js.map": "/static/js/main.61e189ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2731bf.css",
+    "static/js/main.61e189ae.js"
+  ]
+}
