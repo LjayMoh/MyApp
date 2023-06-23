@@ -6,7 +6,7 @@ import './WelcomeSection.css'
 function WelcomeSection() {
     return (
         <div className='welcome-container'>
-            <video src="/videos/video-3.mp4" autoPlay loop muted />
+            <video src="/video/video-3.mp4" autoPlay loop muted />
             <h1>Welcome to the World of Internet Art!</h1>
             <div className="design-btns">
               <Button className="btn" buttonStyle='btn--outline' 
