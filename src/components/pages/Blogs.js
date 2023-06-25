@@ -106,11 +106,28 @@ export default function Essay() {
 
             <div className='week14'>
               <h2 className='subtitle1'>Week14_Blog</h2>
-              <h3 className='sub'>The future of Digital Arts in Africa</h3>
+              <h3 className='sub'>Social Media being a platform to share works of Art.</h3>
+              <p>
+                Social networking plaforms have been a way to connect artists from different diversities and continents. A lot of them have been and still are using it as a platform to share their artworks and let people criticize them, this makes the audience participate in the design process
+                and make the product user friendly as well as more engaging and interactive. Social media platforms like Instagram are now part of our daily lives where people can easily access other people's shared work and information about politics, health, geographical location, and many more.
+                The application is used by a more than 1 billion people (Xaba et al. 2021: 85), which makes it a good platform for people to connect and share different contents. It is an open space for emerging artists to get connections and expose their capabilities and talents to the world for 
+                others and companies to take them into consideration. 
+              </p>
 
+              <p>
+                Instagram is one of the best social media I know that can spread information with a blink of an eye, its spreads information fast and people communicate to share what is going on in their lives. The more followers an artist can get or have, the more chances for them to succeed and be approached 
+                by different companies to do project to them (Xaba et al. 2021: 85-86). Artists mus use every chance they get when they have access to the internet to unleash their creativity to the world, the digtal age has made it easy for everyone to be creative and share their artworks all over the world without them have to travel
+                from one country to the next to spread their talent. It is the future of digital art and people are living to undertand the algorithms of this internet art for them to succeed as well. It is a good way for artists to make easy moeny as they can also sell their artworks online without anyone stopping them.
+              </p>
+
+              <p>
+                As a digital artist as well I do believe that Instagram and other accessible social platforms are playing a big role in the era to help artist like me to improve their artworks and share them easily which strengthens connections and interactivity between the audience and the artist.
+              </p>
+
+              <h4 className='sub'>Reference List:</h4>
+              <p>XABA, S., FANG, X., & SHAH, D. 2021. The Impact of Instagram in the Works of Emerging South African Artists, 
+                <em>Advances in Social Sciences, Education and Humanities Research</em> 568 (2), 85-90.</p>
             </div>
-            
-
         </div>
     );
 }
