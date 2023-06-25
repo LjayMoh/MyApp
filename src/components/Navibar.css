@@ -21,7 +21,7 @@
 .navBar-logo{
     color: #ffffff;
     justify-self: start;
-    margin-left: 20px;
+    margin: 0 2px;
     cursor: pointer;
     text-decoration: none;
     font-size: 1.8rem;
@@ -66,7 +66,7 @@
     text-align: center;
     width: 60vw;
     justify-content: end;
-    margin-right: 2rem;
+    margin-right: 0.5rem;
 }
 
 .menuItems {
@@ -78,7 +78,7 @@
     display: flex;
     align-items: center;
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.2rem 0.5rem;
     height: 100%;
 }
 

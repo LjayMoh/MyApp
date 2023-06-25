@@ -6,8 +6,6 @@
 }
 
 .home,
-.blogs,
-.design,
 .artwork {
   display: flex;
   height: 90vh;
@@ -19,12 +17,19 @@
 /*-------blogs page------*/
 
 .blogs {
-  /**background-image: url('');**/
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 550vh;
-  display: flex;
+  background-color: #a3f7f8ab;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80%;
+  height: 100vh;
+  cursor: pointer;
+  margin: 0 150px;
+  border-radius: 2rem;
+}
+
+.blogs p {
+  font-size: 17px;
+  margin: 5px 20px;
+  padding: .5px .5px;
 }
 
 .heading {
@@ -35,123 +40,141 @@
 }
 
 .essay {
-  background-color: #6dfdffc8;
+  background-color: #a3f7f8ab;
   font-family: 'Times New Roman', Times, serif;
-  width: 50%;
-  height: 550vh;
+  width: 80%;
+  height: 250vh;
   cursor: pointer;
-}
-
-.essay:hover {
-  background-color: #f4feffe6;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
 .subtitle1 {
   font-size: 20px;
   color: #000000;
-  margin-left: 50px;
+  margin: 10px 50px;
 }
 
 .sub {
-  font-size: 15px;
+  font-size: 17.5px;
   color: #000000;
   margin: 0 15px;
   padding-top: 10px;
 }
 
 .essay p {
-  margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
+  margin: 5px 20px;
+  padding: .5px .5px;
+  font-size: 17px;
   color:rgb(0, 0, 0);
   backdrop-filter: blur(2px);
 }
 
 .essay img {
-  margin: 0 70px;
+  margin: 0 520px;
+  align-items: center;
 }
 
 .caption {
-  font-size: 12px;
+  font-size: 14.5px;
   color:rgb(0, 0, 0);
   font-weight: bold;
-  margin: 0 45px;
+  margin: 0 400px;
 }
 
 .u-url {
-  color: rgb(234, 0, 255);
-  font-size: 15px;
+  color: rgb(198, 0, 215);
+  font-size: 16px;
   text-decoration: none;
 }
 
 .u-url:hover {
   color: rgb(20, 20, 20);
   transition: ease-in;
+  margin: 0 5px;
 }
 
-
-.blog {
-  height: 550vh;
-  width: 50%;
-  background-color: #65f39be6;
+.bloggy {
+  background-color: #a3f7f8ab;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80%;
+  height: 280vh;
   cursor: pointer;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
-.blog:hover {
-  background-color: #f4feffe6;
-  transition: ease-out;
+.week12 {
+  background-color: #3cfffc34;
+  width: 100%;
+  height: 100vh;
+  border-radius: 2rem;
 }
 
-.blog p {
-  margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
-  color:rgb(0, 0, 0);
-  backdrop-filter: blur(2px);
+.week12 p {
+  margin: 5px 20px;
+}
+
+.week13 {
+  background-color: #0578a234;
+  width: 100%;
+  height: 88vh;
+  border-radius: 2rem;
+}
+
+.week13 p {
+  margin: 5px 20px;
+}
+
+.week14 {
+  background-color: #26262634;
+  width: 100%;
+  height: 85vh;
+  border-radius: 2rem;
+}
+
+.week14 p {
+  margin: 5px 20px;
 }
 
 .pic {
-  width: 280px;
-  height: 195px;
-  margin-left: 50px;
+  width: 400px;
+  height: 300px;
+  margin-left: 389px;
 }
 
-.work {
-  height: 550vh;
-  width: 50%;
-  background-color: #fdb475c3;
+.prep {
+  background-color: #a3f7f8ab;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80%;
+  height: 190vh;
   cursor: pointer;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
-.work:hover {
-  background-color: #f4feffe6;
-  transition: ease-out;
-}
-
-.work p {
-  margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
+.prep p {
+  margin: 5px 20px;
+  padding: .5px .5px;
+  font-size: 17px;
   color:rgb(0, 0, 0);
   backdrop-filter: blur(2px);
 }
 
 .research {
-  height: 550vh;
-  width: 50%;
-  background-color: #fb717199;
+  background-color: #a3f7f8ab;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80%;
+  height: 100vh;
   cursor: pointer;
-}
-
-.research:hover {
-  background-color: #f4feffe6;
-  transition: ease-out;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
 .research p {
   margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
+  padding: .5px .5px;
+  font-size: 17px;
   color:rgb(0, 0, 0);
   backdrop-filter: blur(2px);
 }
@@ -208,52 +231,63 @@
 /*-------design page------*/
 
 .design {
-  /*background-image: url('/public/images/decry-yae-2ZMj_aeGuNI-unsplash.jpg');*/
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 300vh;
-  display: flex;
+  background-color: #a3f7f8ab;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80%;
+  height: 140vh;
+  cursor: pointer;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
+
+.design p {
+  font-size: 17px;
+  margin: 5px 20px;
+  padding: .5px .5px;
+}
+
+.design img {
+  width: 400px;
+  height: 400px;
+  margin-left: 400px;
+}
+
+/*---------styleguide page-----*/
 
 .styleguide {
-  background-color: #ff8ff0a4;
+  background-color: #a3f7f8ab;
   font-family: 'Times New Roman', Times, serif;
-  width: 50%;
-  height: 300vh;
+  width: 80%;
+  height: 140vh;
   cursor: pointer;
-}
-
-.styleguide:hover {
-  background-color: #f4feffe6;
-  transition: ease-out;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
 .styleguide p {
   margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
+  padding: .5px .5px;
+  font-size: 17px;
   color:rgb(0, 0, 0);
   backdrop-filter: blur(2px);
 }
 
-.wireframe {
-  background-color: #f87373b2;
-  font-family: 'Times New Roman', Times, serif;
-  width: 50%;
-  height: 300vh;
-  cursor: pointer;
-}
+/*---------wireframes page-----*/
 
-.wireframe:hover {
-  background-color: #f4feffe6;
-  transition: ease-out;
+.wireframe {
+  background-color: #a3f7f8ab;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80%;
+  height: 350vh;
+  cursor: pointer;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
 .wireframe p {
   margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
+  padding: .5px .5px;
+  font-size: 17px;
   color:rgb(0, 0, 0);
   backdrop-filter: blur(2px);
 }
@@ -261,32 +295,32 @@
 .wireframe img {
   width: 400px;
   height: 400px;
-  margin: 0 30px;
+  margin-left: 400px;
 }
+
+/*---------UI page-----*/
 
 .UX {
-  background-color: #999999a5;
+  background-color: #a3f7f8ab;
   font-family: 'Times New Roman', Times, serif;
-  width: 50%;
-  height: 300vh;
+  width: 80%;
+  height: 200vh;
   cursor: pointer;
-}
-
-.UX:hover {
-  background-color: #f4feffe6;
-  transition: ease-out;
+  margin: 0 150px;
+  border-radius: 2rem;
 }
 
 .UX p {
   margin: 5px 10px;
-  padding: .3px .3px;
-  font-size: 15px;
+  padding: .5px .5px;
+  font-size: 17px;
   color:rgb(0, 0, 0);
   backdrop-filter: blur(2px);
 }
 
 .UX span {
   text-decoration: underline;
+  font-weight: bold;
 }
 
 @media screen and (max-width: 980px) {

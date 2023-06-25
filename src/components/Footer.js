@@ -25,18 +25,18 @@ function Footer() {
           <section className='footerLink-wrapper'>
             <div className='footerLink-objects'>
               <h1 className='subhead'>Theory</h1>
-              <Link to='/blogs' className='link'>Dev Blog</Link>
-              <Link to='/blogs' className='link'>Essay</Link>
-              <Link to='/blogs' className='link'>My Artwork</Link>
-              <Link to='/blogs' className='link'>Independent Work</Link>
+              <Link to='/essay' className='link'>Essay</Link>
+              <Link to='/bloggy' className='link'>Blogs</Link>
+              <Link to='/prepwork' className='link'>Prep work</Link>
+              <Link to='/addwork' className='link'>Independent Work</Link>
             </div>
 
             <div className='footerLink-objects'>
               <h2 className='subhead'>Web Design</h2>
-              <Link to='/design' className='link'>Wireframes</Link>
-              <Link to='/design' className='link'>Styleguide</Link>
-              <Link to='/design' className='link'>Rationale</Link>
-              <Link to='/design' className='link'>My UI&UX</Link>
+              <Link to='/wireframes' className='link'>Wireframes</Link>
+              <Link to='/styleguide' className='link'>Styleguide</Link>
+              <Link to='/ui' className='link'>Rationale</Link>
+              <Link to='/ui' className='link'>My UI&UX</Link>
             </div>
           </section>
 

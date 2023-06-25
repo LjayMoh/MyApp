@@ -25,6 +25,12 @@ video {
     margin: 0 40px;
 }
 
+.welcome-container p {
+    color: rgb(239, 255, 254);
+    font-size: 25px;
+    margin: 5px 440px;
+}
+
 .design-btns {
     margin-top: 40px;
 }
