@@ -29,6 +29,8 @@ video {
     color: rgb(239, 255, 254);
     font-size: 25px;
     margin: 5px 440px;
+    background-color: rgba(0, 0, 0, 0.393);
+    border-radius: 2rem;
 }
 
 .design-btns {

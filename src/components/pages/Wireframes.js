@@ -4,6 +4,8 @@ import Img1 from '../../assets/Homepage.png';
 import Img2 from '../../assets/DesignPage.png';
 import Img3 from '../../assets/TheoryPage.png';
 import Img4 from '../../assets/InternetArtPage.png';
+import Img5 from '../../assets/ContentPage.png';
+
 
 export default function Wireframes() {
     return (
@@ -45,6 +47,18 @@ export default function Wireframes() {
           </p>
 
           <h2 className='subtitle1'>REVISED WIREFRAMES:</h2>
+          <p>
+            The only layout I changed in the pages were the design and theory section pages, I sketched out new wireframe that illustrated the layout of all the pages in the theory and design section as they are going to look the same
+            but differ depending on the kind of content the page holds.
+          </p>
+          <figure>
+            <img src={Img5} />
+            <figcaption className="caption">All pages in the theory and design sections wireframe</figcaption>
+          </figure>
+          <p>
+            I chose this layout because it gives the content space, legibility, and it is easy for the user to read it, the text is no longer overwhelming and the user can take their time reading the content 
+            they want and navigate to other pages to continue reading if they want to. 
+          </p>
 
         </div>
     );

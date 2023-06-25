@@ -45,8 +45,11 @@ export default function Styleguide() {
 
           <h6 className='sub'>BRIEFLY REVISED GUIDE:</h6>
           <p>
-            The website still uses the same font, colours excluding light orange and light red, and graphics inluding more images both designed by me and the ones I downloaded. I changed the layout of the pages in the theory section and the design section because I did not want the ser to be overwhelmed with a lot of text 
-            and background colours when I added more blogs. I made the layout of all the pages the same excluding the homepage of cause so that I can keep the consistency.
+            The website still uses the same font, colours excluding light orange and light red, and same graphics including more images both designed by me and the ones I downloaded online. I changed the layout of the pages in the theory section and the design section because I did not want the user to feel overwhelmed with a lot of text 
+            packed in one page with different background colours. Since I had all the content from the theory section in one page I realized that that was not a good idea because it made the text look like it's a lot and the user had to read all of those different contents all at once, which can be very tiring and frustrating for some people;
+            so I separeted the pages and made every topic to have its own page this goes for th design section page as well. I made the layout of all the pages the same excluding the homepage of cause, so that I can keep the consistency. 
+            I did not want to confuse the user as they navigate through the pages so I ensured that for all the pages both in the theory and design sections I use the same font sizes, 
+            same backgrounds, same text layout, and same negative space except for the homepage and the artwork page; I came to this decision because I wanted to keep the website simple and aesthetically appealing as well as smooth to engage with.
           </p>
 
         </div>

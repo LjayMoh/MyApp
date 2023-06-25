@@ -5,8 +5,7 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
-.home,
-.artwork {
+.home {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -278,7 +277,7 @@
   background-color: #a3f7f8ab;
   font-family: 'Times New Roman', Times, serif;
   width: 80%;
-  height: 350vh;
+  height: 380vh;
   cursor: pointer;
   margin: 0 150px;
   border-radius: 2rem;
@@ -350,8 +349,83 @@
 /*-------art page------*/
 
 .artwork {
-  /*background-image: url('/public/images/decry-yae-2ZMj_aeGuNI-unsplash.jpg');*/
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  font-family: 'Times New Roman', Times, serif;
+  width: 100%;
+  border-radius: 2rem;
+  height: 120vh;
+}
+
+.top {
+  background-color: #000000e7;
+  border-radius: 2rem;
+  padding: 2px 2px;
+}
+
+.close {
+  float: right;
+  margin-right: 28px;
+  padding-top: 9px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+.close:hover {
+  color: rgb(8, 239, 239);
+}
+
+.navbar-logo {
+  margin-left: 30px;
+  padding-bottom: 9px;
+  color: #ffffff;
+  font-size: 2.5rem;
+}
+
+.navbar-logo:hover {
+  color: rgb(8, 239, 239);
+}
+
+.images {
+  display: inline-block;
+  background-color: #0000003c;
+  padding: 5px 20px;
+  margin: 0px 130px;
+}
+
+.images img {
+  width: 310px;
+  height: 300px;
+  margin-left: 50px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.images img:hover{
+  transform: scale(0.6) rotate(15deg);
+  border-radius: 15.5px;
+  box-shadow: 0 20px 70px #08f7ff92;
+  transition: 1.5s;
+}
+
+.left {
+  display: inline-block;
+  margin-left: 500px;
+  padding: 15px;
+  background-color: #000000;
+  border-radius: 2rem;
+}
+
+.icon {
+  color: #e0f7fa;
+  margin: 0 25px;
+  padding: 10px 0px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.icon:hover {
+  color: rgb(8, 239, 239);
+  margin-bottom: 2px;
+  transform: .5s;
 }

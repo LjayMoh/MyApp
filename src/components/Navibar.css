@@ -83,7 +83,7 @@
 }
 
 .menuLinks:hover {
-    border-bottom: 4px solid rgb(8, 239, 239);;
+    border-bottom: 4px solid rgb(8, 239, 239);
     transition: all 0.2s ease-out;
 }
 
