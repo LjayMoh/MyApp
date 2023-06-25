@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.76719f35.css",
-    "main.js": "/myapp/static/js/main.d1c042d9.js",
-    "index.html": "/myapp/index.html",
-    "main.76719f35.css.map": "/myapp/static/css/main.76719f35.css.map",
-    "main.d1c042d9.js.map": "/myapp/static/js/main.d1c042d9.js.map"
+    "main.css": "/myApp/static/css/main.18cca02e.css",
+    "main.js": "/myApp/static/js/main.2ad5ec2e.js",
+    "static/media/florian-klauer-mk7D-4UCfmg-unsplash.jpg": "/myApp/static/media/florian-klauer-mk7D-4UCfmg-unsplash.f9386b8db0dbfb2b51ea.jpg",
+    "static/media/video-3.mp4": "/myApp/static/media/video-3.82ba7e4b6de0897971af.mp4",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/myApp/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.4fad6965e9712a40aada.jpg",
+    "static/media/edho-pratama-T6fDN60bMWY-unsplash.jpg": "/myApp/static/media/edho-pratama-T6fDN60bMWY-unsplash.87e4651b16d3c8993107.jpg",
+    "static/media/zach-key-rKE6rXOl14U-unsplash.jpg": "/myApp/static/media/zach-key-rKE6rXOl14U-unsplash.2568b50680501c9fa53e.jpg",
+    "static/media/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg": "/myApp/static/media/hal-gatewood-tZc3vjPCk-Q-unsplash.4cf062520898b9eed0a6.jpg",
+    "static/media/Homepage.png": "/myApp/static/media/Homepage.ed5178723ee9ff50eecd.png",
+    "static/media/estee-janssens-HAzwnsI9oEQ-unsplash.jpg": "/myApp/static/media/estee-janssens-HAzwnsI9oEQ-unsplash.53998a238765f15e60d9.jpg",
+    "static/media/TheoryPage.png": "/myApp/static/media/TheoryPage.17f0181cc2c0574171d8.png",
+    "static/media/InternetArtPage.png": "/myApp/static/media/InternetArtPage.84ea9437e2192d6136fd.png",
+    "static/media/DesignPage.png": "/myApp/static/media/DesignPage.5716d11acc6dfe5da9eb.png",
+    "static/media/sebastian-svenson-d2w-_1LJioQ-unsplash.jpg": "/myApp/static/media/sebastian-svenson-d2w-_1LJioQ-unsplash.effd659876b793be97e0.jpg",
+    "static/media/milad-fakurian-58Z17lnVS4U-unsplash.jpg": "/myApp/static/media/milad-fakurian-58Z17lnVS4U-unsplash.33dfa75d2e857ff27992.jpg",
+    "static/media/DocumentaX.jpg": "/myApp/static/media/DocumentaX.35ac5ab9b8f200e7ec43.jpg",
+    "index.html": "/myApp/index.html",
+    "main.18cca02e.css.map": "/myApp/static/css/main.18cca02e.css.map",
+    "main.2ad5ec2e.js.map": "/myApp/static/js/main.2ad5ec2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.76719f35.css",
-    "static/js/main.d1c042d9.js"
+    "static/css/main.18cca02e.css",
+    "static/js/main.2ad5ec2e.js"
   ]
 }
