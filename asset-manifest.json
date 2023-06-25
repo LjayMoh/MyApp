@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.fd2f7b85.css",
-    "main.js": "/myapp/static/js/main.6964b752.js",
+    "main.css": "/myapp/static/css/main.6a50c2c0.css",
+    "main.js": "/myapp/static/js/main.03148df9.js",
     "static/media/florian-klauer-mk7D-4UCfmg-unsplash.jpg": "/myapp/static/media/florian-klauer-mk7D-4UCfmg-unsplash.f9386b8db0dbfb2b51ea.jpg",
     "static/media/video-3.mp4": "/myapp/static/media/video-3.82ba7e4b6de0897971af.mp4",
     "static/media/jean-carlo-emer-y5UPTJ63PyI-unsplash.jpg": "/myapp/static/media/jean-carlo-emer-y5UPTJ63PyI-unsplash.04d25d2f9faf7269fe48.jpg",
@@ -21,11 +21,11 @@
     "static/media/img1.jpg": "/myapp/static/media/img1.22c0dd73392bb6f0e0c2.jpg",
     "static/media/img3.jpg": "/myapp/static/media/img3.64f7b7fde056386b497e.jpg",
     "index.html": "/myapp/index.html",
-    "main.fd2f7b85.css.map": "/myapp/static/css/main.fd2f7b85.css.map",
-    "main.6964b752.js.map": "/myapp/static/js/main.6964b752.js.map"
+    "main.6a50c2c0.css.map": "/myapp/static/css/main.6a50c2c0.css.map",
+    "main.03148df9.js.map": "/myapp/static/js/main.03148df9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd2f7b85.css",
-    "static/js/main.6964b752.js"
+    "static/css/main.6a50c2c0.css",
+    "static/js/main.03148df9.js"
   ]
 }
