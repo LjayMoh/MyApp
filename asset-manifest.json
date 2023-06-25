@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.18cca02e.css",
-    "main.js": "/myapp/static/js/main.617d85b6.js",
+    "main.css": "/myapp/static/css/main.fd2f7b85.css",
+    "main.js": "/myapp/static/js/main.6964b752.js",
     "static/media/florian-klauer-mk7D-4UCfmg-unsplash.jpg": "/myapp/static/media/florian-klauer-mk7D-4UCfmg-unsplash.f9386b8db0dbfb2b51ea.jpg",
     "static/media/video-3.mp4": "/myapp/static/media/video-3.82ba7e4b6de0897971af.mp4",
+    "static/media/jean-carlo-emer-y5UPTJ63PyI-unsplash.jpg": "/myapp/static/media/jean-carlo-emer-y5UPTJ63PyI-unsplash.04d25d2f9faf7269fe48.jpg",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/myapp/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.4fad6965e9712a40aada.jpg",
     "static/media/edho-pratama-T6fDN60bMWY-unsplash.jpg": "/myapp/static/media/edho-pratama-T6fDN60bMWY-unsplash.87e4651b16d3c8993107.jpg",
     "static/media/zach-key-rKE6rXOl14U-unsplash.jpg": "/myapp/static/media/zach-key-rKE6rXOl14U-unsplash.2568b50680501c9fa53e.jpg",
@@ -14,14 +15,17 @@
     "static/media/InternetArtPage.png": "/myapp/static/media/InternetArtPage.84ea9437e2192d6136fd.png",
     "static/media/DesignPage.png": "/myapp/static/media/DesignPage.5716d11acc6dfe5da9eb.png",
     "static/media/sebastian-svenson-d2w-_1LJioQ-unsplash.jpg": "/myapp/static/media/sebastian-svenson-d2w-_1LJioQ-unsplash.effd659876b793be97e0.jpg",
+    "static/media/ContentPage.png": "/myapp/static/media/ContentPage.d04958d20f02069769df.png",
     "static/media/milad-fakurian-58Z17lnVS4U-unsplash.jpg": "/myapp/static/media/milad-fakurian-58Z17lnVS4U-unsplash.33dfa75d2e857ff27992.jpg",
     "static/media/DocumentaX.jpg": "/myapp/static/media/DocumentaX.35ac5ab9b8f200e7ec43.jpg",
+    "static/media/img1.jpg": "/myapp/static/media/img1.22c0dd73392bb6f0e0c2.jpg",
+    "static/media/img3.jpg": "/myapp/static/media/img3.64f7b7fde056386b497e.jpg",
     "index.html": "/myapp/index.html",
-    "main.18cca02e.css.map": "/myapp/static/css/main.18cca02e.css.map",
-    "main.617d85b6.js.map": "/myapp/static/js/main.617d85b6.js.map"
+    "main.fd2f7b85.css.map": "/myapp/static/css/main.fd2f7b85.css.map",
+    "main.6964b752.js.map": "/myapp/static/js/main.6964b752.js.map"
   },
   "entrypoints": [
-    "static/css/main.18cca02e.css",
-    "static/js/main.617d85b6.js"
+    "static/css/main.fd2f7b85.css",
+    "static/js/main.6964b752.js"
   ]
 }
