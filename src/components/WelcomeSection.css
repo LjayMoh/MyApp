@@ -59,10 +59,18 @@ video {
     font-size: 1.2rem;
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 976px) {
     .welcome-container h1 {
         font-size: 40px;
         margin-top: 60px;
         margin: 0 30px;
+    }
+
+    .welcome-container p {
+        color: rgb(239, 255, 254);
+        font-size: 20px;
+        margin: 5px 300px;
+        background-color: rgba(0, 0, 0, 0.393);
+        border-radius: 2rem;
     }
 }
