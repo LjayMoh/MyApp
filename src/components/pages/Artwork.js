@@ -35,7 +35,7 @@ export default function Artwork() {
             <span><i className='fas fa-crop'></i></span>
           </Link>
 
-          <Link to="/" className='icon'>
+          <Link to="/research" className='icon'>
             <span><i className='fa fa-brain'></i></span>
           </Link>
         </div>
