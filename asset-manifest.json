@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.6a50c2c0.css",
+    "main.css": "/myapp/static/css/main.662c415d.css",
     "main.js": "/myapp/static/js/main.03148df9.js",
     "static/media/florian-klauer-mk7D-4UCfmg-unsplash.jpg": "/myapp/static/media/florian-klauer-mk7D-4UCfmg-unsplash.f9386b8db0dbfb2b51ea.jpg",
     "static/media/video-3.mp4": "/myapp/static/media/video-3.82ba7e4b6de0897971af.mp4",
@@ -21,11 +21,11 @@
     "static/media/img1.jpg": "/myapp/static/media/img1.22c0dd73392bb6f0e0c2.jpg",
     "static/media/img3.jpg": "/myapp/static/media/img3.64f7b7fde056386b497e.jpg",
     "index.html": "/myapp/index.html",
-    "main.6a50c2c0.css.map": "/myapp/static/css/main.6a50c2c0.css.map",
+    "main.662c415d.css.map": "/myapp/static/css/main.662c415d.css.map",
     "main.03148df9.js.map": "/myapp/static/js/main.03148df9.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a50c2c0.css",
+    "static/css/main.662c415d.css",
     "static/js/main.03148df9.js"
   ]
 }
